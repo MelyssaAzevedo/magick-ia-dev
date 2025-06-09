@@ -31,3 +31,7 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/melyssaazevedo/magick-ia-dev.git
+
+## ✍️ Autoria
+Desenvolvido com 💜 por [Melyssa Azevedo](https://github.com/melyssaazevedo) com auxilio da equipe DEV EM DOBRO
+Sinta-se à vontade para contribuir, clonar ou se inspirar.

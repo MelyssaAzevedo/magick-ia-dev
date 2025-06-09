@@ -23,7 +23,11 @@ O objetivo é apresentar habilidades técnicas de forma artística, ao mesmo tem
 - Design místico e imersivo  
 - Ícones personalizados e animações sutis  
 - Conteúdo sobre projetos pessoais com IA  
-- Interface leve, intuitiva e responsiva  
+- Interface leve, intuitiva e responsiva
+
+## ✍️ Autoria
+Desenvolvido com 💜 por [Melyssa Azevedo](https://github.com/melyssaazevedo) com auxilio da equipe DEV EM DOBRO
+Sinta-se à vontade para contribuir, clonar ou se inspirar.
 
 ## 🚀 Como executar localmente
 
@@ -32,6 +36,3 @@ Clone o repositório:
 ```bash
 git clone https://github.com/melyssaazevedo/magick-ia-dev.git
 
-## ✍️ Autoria
-Desenvolvido com 💜 por [Melyssa Azevedo](https://github.com/melyssaazevedo) com auxilio da equipe DEV EM DOBRO
-Sinta-se à vontade para contribuir, clonar ou se inspirar.
